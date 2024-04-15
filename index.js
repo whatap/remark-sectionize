@@ -2,7 +2,7 @@ import { findAfter } from 'unist-util-find-after';
 import { visit } from 'unist-util-visit';
 
 const DEFAULT_OPTIONS = {
-  flatten: false,
+  flatten: true,
   max_depth: 6,
 };
 
