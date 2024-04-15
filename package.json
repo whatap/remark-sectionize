@@ -1,5 +1,5 @@
 {
-  "name": "@whatap/remark-sectionize",
+  "name": "@whatap-docs/remark-sectionize",
   "version": "0.0.2",
   "description": "Wrap content below each heading in a <section> element",
   "main": "index.js",
