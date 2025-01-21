@@ -1,9 +1,9 @@
 {
   "name": "@whatap-docs/remark-sectionize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrap content below each heading in a <section> element",
   "main": "index.js",
-  "repository": "https://github.com/kijung-iM/remark-sectionize",
+  "repository": "https://github.com/whatap/remark-sectionize",
   "author": "kj.im@whatap.io",
   "license": "MIT",
   "private": false,
